@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@google/generative-ai": "^0.10.0",
+    "axios": "^1.6.8",
+    "cheerio": "^1.0.0-rc.12",
+    "crypto": "^1.0.1",
+    "discord.js": "^14.15.2",
+    "dotenv": "^16.4.5",
+    "eventsource": "^2.0.2",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^2.6.1",
+    "pdf-parse": "^1.1.1",
+    "sharp": "^0.33.3",
+    "ws": "^8.17.0",
+    "youtube-transcript": "^1.2.1"
+  }
+}
