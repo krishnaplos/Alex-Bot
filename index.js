@@ -1,5 +1,9 @@
 // <=====[Main]=====>
 
+
+const Dicord = require('discord.js'); 
+const keep_alive = require('./keep_alive.js')
+
 require('dotenv').config();
 const fetch = require('node-fetch');
 const {
